@@ -4,5 +4,6 @@
     "**/bower_components": true,
     "**/.sfdx": true
   },
-  "explorer.compactFolders": false
+  "explorer.compactFolders": false,
+  "material-icon-theme.activeIconPack": "nest"
 }
